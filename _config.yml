@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tabasom.github.io
+title: tabasom
+tagline: A log of everyday life
+description: Here I publish some content that I think can be helpful to some of us
+paginate: 10
